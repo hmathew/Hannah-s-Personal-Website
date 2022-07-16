@@ -1,0 +1,78 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Arial", sans-seriff;
+  text-align: center; 
+  background-color: lightpink; 
+}
+
+/* STYLE TEXT */
+
+header {
+  color: white;
+  text-align; center;
+}
+
+main {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* STYLE IMAGES */
+img {
+  border-radius: 50%;
+  max-height: 250px;
+  border: 3px solid white;
+  margin-bottom: 2em;
+}
+
+.cool {
+  color: black;
+}
+
+#bunny {
+  border-radius: 10%;
+}
+
+
+ul {
+  list-style-type: none;
+  background-color: beige;
+  overflow: hidden;
+  padding: 1em;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: red;
+  font-size: 1.3em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: gold;
+}
+
+ h1 {
+      text-shadow: 1px 1px blue;
+      }
